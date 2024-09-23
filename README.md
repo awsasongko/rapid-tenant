@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the Repository**  
    First, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/anjarsasongko/rapid-tenant.git
+   git clone https://github.com/awsasongko/rapid-tenant.git
    cd rapid-tenant
    ```
 
@@ -163,7 +163,7 @@ We welcome contributions to **RapidTenant**! If you'd like to contribute, please
 2. **Clone Your Fork**: 
    Clone the forked repository to your local machine:
    ```bash
-   git clone https://github.com/anjarsasongko/rapid-tenant.git
+   git clone https://github.com/awsasongko/rapid-tenant.git
    cd rapid-tenant
    ```
 
